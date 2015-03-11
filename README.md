@@ -8,6 +8,6 @@ Link to the open source projects contributed by the participants of the h4ckadem
 * WiFi locator by [luisddm](), [sagaban](): [https://github.com/H4ckWifiAffinity/H4ckWifiAffinity](https://github.com/H4ckWifiAffinity/H4ckWifiAffinity)
 * image beauty classifier by [luisddm]()
 * "el maligno" by [viperey](): [https://github.com/H4ckEvilness/H4ckEvilness](https://github.com/H4ckEvilness/H4ckEvilness)
-* lumos by [daao87](http://github.com/daao87) and [RicardoMartinezCalvo](https://github.com/RicardoMartinezCalvo)[https://github.com/daao87/lumos](https://github.com/daao87/lumos)
-* Lextrend by 
+* lumos by [daao87](http://github.com/daao87) and [RicardoMartinezCalvo](https://github.com/RicardoMartinezCalvo)[https://github.com/daao87/lumos]:   (https://github.com/daao87/lumos)
+* Lextrend by [Ricardo](https://github.com/RicardoMartinezCalvo), [guerrero](https://github.com/guerrero), [RubenDjon](https://github.com/RubenDjOn), [Sagaban](https://github.com/sagaban), [daao87](http://github.com/daao87) : [Lextrend Camera](https://github.com/RicardoMartinezCalvo/Lextrend-Camera)
 
